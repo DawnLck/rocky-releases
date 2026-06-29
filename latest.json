@@ -1,0 +1,11 @@
+{
+  "version": "0.0.7",
+  "notes": "Rocky 0.0.7 updater baseline prerelease",
+  "pub_date": "2026-06-29T16:51:02.144Z",
+  "platforms": {
+    "darwin-universal": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNjczQ1lYam1GejhlVnFWUmdPVGVscXI4VmY2MlFMblloNWRNS2xiVUtRWC95OHB4V3pKaGQ4THhqZkV0cmpTMVBXbFpEVE5CampjQU01RFB2RHBFV2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzUxNzcxCWZpbGU6Um9ja3kuYXBwLnRhci5negpoZUIxa0Y0bVlka1NjZ0NNTkhFVm5WWEdZTVp2cDVveHFOaWJtUE0xeld3OExiU3dZcldobHhIQ2FYSmVJbnFsVVk1Z2lRa2FPSXpCSFUrUG16YUpBUT09Cg==",
+      "url": "https://github.com/DawnLck/rocky-releases/releases/download/v0.0.7/Rocky_0.0.7_universal.app.tar.gz"
+    }
+  }
+}
