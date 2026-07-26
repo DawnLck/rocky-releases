@@ -1,11 +1,11 @@
 {
-  "version": "0.0.8",
-  "notes": "Rocky 0.0.8 updater prerelease",
-  "pub_date": "2026-06-29T17:01:12.699Z",
+  "version": "0.1.1",
+  "notes": "新增 Typora 风格在线更新弹窗：检测更新、下载进度、确认后安装并重启",
+  "pub_date": "2026-07-26T09:19:11.836Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNjVZeWVpREF6eUxMK3lUd0IwVitNb2hCYytKNm1ZZGFGSzBGWFczYmtFWEdvWEV6d0N5eVIxK2VnaXhaWjhOdDUzdkw2YmVpbzFTcUdwdGllcFEvb3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzUyNDUwCWZpbGU6Um9ja3lfMC4wLjhfdW5pdmVyc2FsLmFwcC50YXIuZ3oKbGlST2lEemJTdWVKR0pWa0RHSDFpdE9ySnNFUE4ySzI0akhLanZZRlI1c2lpVW95Z3pJZ2l5SWtPT1p1NWovZ2V4SlVyQkxWa25UTzUwcW5sME1PQ3c9PQo=",
-      "url": "https://github.com/DawnLck/rocky-releases/releases/download/v0.0.8/Rocky_0.0.8_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNnhqVVlOTHQwNERuUS9xNkFzNWNxNklXa3FnWTA4WXVSY25wZGFrd3BVYjl4RU9EY1M1OW85cVpIVjE5Zkx5dFlGNElDQ25IN1RZN3ZYbUxxc2k0cXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDU3NTI3CWZpbGU6Um9ja3kuYXBwLnRhci5nego0ajRNRkpVck5iTDZucjhNTEd6RUVaRHhLVkM3ZytrS1RNTGRGL09xWmdMb1pyVmNkRzBSSDVnZGIzQTJSMmZNRHNHYTBLdmZIc28yZzlITEUzdXBDUT09Cg==",
+      "url": "https://github.com/DawnLck/rocky-releases/releases/download/v0.1.1/Rocky.app.tar.gz"
     }
   }
 }
