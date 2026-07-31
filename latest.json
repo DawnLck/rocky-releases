@@ -7,5 +7,5 @@
       "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.1.9/Rocky_0.1.9_universal.app.tar.gz"
     }
   },
-  "notes": "扩充内置模型与聚合服务，优化投资伴侣对话与安全边界，在线更新改为国内加速分发。"
+  "notes": "对 Rocky 系统提示词做了一次治理；并支持 TokenDance 与 DeepSeek 最新模型，扩充内置模型与聚合服务。"
 }
