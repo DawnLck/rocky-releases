@@ -1,11 +1,11 @@
 {
-  "version": "0.1.9",
-  "pub_date": "2026-07-31T13:20:47.799Z",
+  "version": "0.1.10",
+  "notes": "知识库改为书架式封面浏览，支持将 PDF 当前页设为封面；策略草稿编辑更干净、正文占满工作区；并加强托管模型网络失败时的保留与提示，以及若干会话与渠道稳定性修复。",
+  "pub_date": "2026-08-01T05:15:34.457Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNjFnMWNFZ1cwTTRvSXIzVmlocmxuaVVCbldaQWJPUnIwVlZISkZLOVkwRm9ZeW9XSlZXcDZ6T2ZiOEl0M0V6V3locHdpSnhCZ0ZXSC9OR2E2S2RseHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTAyMzYxCWZpbGU6Um9ja3kuYXBwLnRhci5negpKcHlRTXFsa2RHRkUzRExOVEtnVUl5ZDFVSmlZWm1tSGh0WTZRVVRldFdyVU0zUldJL2JaVE5oMGllSE5CY3RVL1pBaDdhVnBTVzZqOEQvZmx6d2hEUT09Cg==",
-      "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.1.9/Rocky_0.1.9_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNjJlOGx0dXV2bUdxMklRZ0U3UkZaMzUxZkpEMFB3ZkZRSVFpNWRmb3VBUnV4cGZDMGpDbUUzQXFtMlFLZXlITHZuZmFYTlVNSzIrZGRvS000MjUrSFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTYxMzE5CWZpbGU6Um9ja3kuYXBwLnRhci5negpJZkJZNElsT3h6cGV0R3ZhcHM5NHRDNSt0VVFZWHFKNUhjSWJXczM2OWpON0VrMWJjY0hiV1VWZUFuaUh5YUZ4R2FNSklOTWJzeFpIanZKRW1LeUVDQT09Cg==",
+      "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.1.10/Rocky_0.1.10_universal.app.tar.gz"
     }
-  },
-  "notes": "对 Rocky 系统提示词做了一次治理；并支持 TokenDance 与 DeepSeek 最新模型，扩充内置模型与聚合服务。"
+  }
 }
