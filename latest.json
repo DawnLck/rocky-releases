@@ -1,10 +1,10 @@
 {
   "version": "0.1.10",
   "notes": "知识库改为书架式封面浏览，支持将 PDF 当前页设为封面；策略草稿编辑更干净、正文占满工作区；并加强托管模型网络失败时的保留与提示，以及若干会话与渠道稳定性修复。",
-  "pub_date": "2026-08-01T05:15:34.457Z",
+  "pub_date": "2026-08-01T05:21:22.646Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNjJlOGx0dXV2bUdxMklRZ0U3UkZaMzUxZkpEMFB3ZkZRSVFpNWRmb3VBUnV4cGZDMGpDbUUzQXFtMlFLZXlITHZuZmFYTlVNSzIrZGRvS000MjUrSFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTYxMzE5CWZpbGU6Um9ja3kuYXBwLnRhci5negpJZkJZNElsT3h6cGV0R3ZhcHM5NHRDNSt0VVFZWHFKNUhjSWJXczM2OWpON0VrMWJjY0hiV1VWZUFuaUh5YUZ4R2FNSklOTWJzeFpIanZKRW1LeUVDQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNnhEMEVsQ0FseXlXZzUvYW1mYjRDYlNaNXlnRUhzSWRNenJGNjV4eWhSellLS3I5bkNYUkEwSWIyTm5HcHRGMWFzMTluUlZCQ3dXTTFtUGpGWGZ4M0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTYxNjc0CWZpbGU6Um9ja3kuYXBwLnRhci5negoyRzNXekVCb3RVSytTRzZIOEZ5Q2pmOEJVMW1tUSs0d1hGcys1NjJIMmpKUHBDWjVWWkw5QnVYWENRR1dPc1lWSWUxbzlOUFVBQy92NncrNWlSWDhCZz09Cg==",
       "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.1.10/Rocky_0.1.10_universal.app.tar.gz"
     }
   }
