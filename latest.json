@@ -1,11 +1,11 @@
 {
-  "version": "0.1.11",
-  "notes": "知识库功能体验升级，并修复若干问题。",
-  "pub_date": "2026-08-02T12:26:49.888Z",
+  "version": "0.1.12",
+  "notes": "修复应用内更新解包失败；延续知识库体验升级与若干稳定性修复。",
+  "pub_date": "2026-08-03T01:37:37.060Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNjUzYWI1VnduM3BxSWlTRVB6V2NjcVQ3cXJZZVZxKzFFUUZmOEtMQ3A4MnpwV0xTQ0JOd3BhTzdxOW1Jd3JFTmZFajMwYlp6Z3IvWjRzV0RHKy9SSUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NjczNTg5CWZpbGU6Um9ja3kuYXBwLnRhci5negovZ3lkVVBIcVBHTllRekFUM0UvYUdPWTNueEhBVCtSTTF3dzJybEljRDdlUUNBaDFhZEYzYVBrTjBYSllpSmFxUTF1VXFzVi9ZYkhNcnArNmVKRXdEdz09Cg==",
-      "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.1.11/Rocky_0.1.11_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNi9Xb3pKZXJ6d0pOOHhnY2x0dUw2Qkt6NnhOd29jZzBRaExkd3VhZ1JGMGJFMlhHaDJjNVhkZjBNYVJtam1yaWlVRTJyVkh3b0cyZlo0bkIyb0VNWmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NzIxMDQ3CWZpbGU6Um9ja3kuYXBwLnRhci5negppN3pEYWkxenhkclFwRmg5N05xSXdWbG1YR1hXVkxmUFZBUmRhaFRSbXpTMEpiZlVuMEhLdWc2MUtPU083TWg5U0RtQVhHMnozZGZiK1JGc29ZTHNBUT09Cg==",
+      "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.1.12/Rocky_0.1.12_universal.app.tar.gz"
     }
   }
 }
