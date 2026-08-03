@@ -1,11 +1,11 @@
 {
-  "version": "0.1.12",
-  "notes": "修复应用内更新解包失败；延续知识库体验升级与若干稳定性修复。",
-  "pub_date": "2026-08-03T01:37:37.060Z",
+  "version": "0.1.13",
+  "notes": "新增飞书私密反馈闭环，支持反馈图片附件与剪贴板粘贴；接入腾讯新闻并优化插件激活，同时修复进度提示误判为最终回答。",
+  "pub_date": "2026-08-03T17:46:15.792Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNi9Xb3pKZXJ6d0pOOHhnY2x0dUw2Qkt6NnhOd29jZzBRaExkd3VhZ1JGMGJFMlhHaDJjNVhkZjBNYVJtam1yaWlVRTJyVkh3b0cyZlo0bkIyb0VNWmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NzIxMDQ3CWZpbGU6Um9ja3kuYXBwLnRhci5negppN3pEYWkxenhkclFwRmg5N05xSXdWbG1YR1hXVkxmUFZBUmRhaFRSbXpTMEpiZlVuMEhLdWc2MUtPU083TWg5U0RtQVhHMnozZGZiK1JGc29ZTHNBUT09Cg==",
-      "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.1.12/Rocky_0.1.12_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNndRMzcwaVNCR0NvcnpQa3kxZUgwZDN0TE9NUjE2UnZ0S3didjJFK1A0RXgrajVPeVZ2MjBiRXVrMGMzTThnM2JMTGlsZG9qU3kxTS9zRU9mWVNta3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1Nzc5MTQ1CWZpbGU6Um9ja3kuYXBwLnRhci5nego0THF5WTBjbmtxZnMwdkhFUmgxVlcvZUZZK3lPMU5DWWFWN01uclFibGZ2bnBOWkUvSmsyK0traFN5LzlNWVVFVXIwZWZjUmJCSmN1bU10WXlKL3lBZz09Cg==",
+      "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.1.13/Rocky_0.1.13_universal.app.tar.gz"
     }
   }
 }
