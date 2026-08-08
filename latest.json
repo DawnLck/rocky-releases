@@ -1,11 +1,11 @@
 {
-  "version": "0.1.13",
-  "notes": "新增反馈模块，有问题和心愿都可以提！接入了腾讯新闻插件，还有一些功能异常修复～",
-  "pub_date": "2026-08-03T17:46:15.792Z",
+  "version": "0.1.14",
+  "notes": "PDF 更好搜了，页面更干净；免费额度会提醒你领取，并修了几个小显示问题。",
+  "pub_date": "2026-08-08T01:57:17.415Z",
   "platforms": {
     "darwin-universal": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNndRMzcwaVNCR0NvcnpQa3kxZUgwZDN0TE9NUjE2UnZ0S3didjJFK1A0RXgrajVPeVZ2MjBiRXVrMGMzTThnM2JMTGlsZG9qU3kxTS9zRU9mWVNta3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1Nzc5MTQ1CWZpbGU6Um9ja3kuYXBwLnRhci5nego0THF5WTBjbmtxZnMwdkhFUmgxVlcvZUZZK3lPMU5DWWFWN01uclFibGZ2bnBOWkUvSmsyK0traFN5LzlNWVVFVXIwZWZjUmJCSmN1bU10WXlKL3lBZz09Cg==",
-      "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.1.13/Rocky_0.1.13_universal.app.tar.gz"
+      "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.1.14/Rocky_0.1.14_universal.app.tar.gz"
     }
   }
 }
