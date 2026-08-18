@@ -1,11 +1,11 @@
 {
-  "version": "0.1.15",
-  "notes": "新增到期约定提醒与策略模块协作对话，扩充模型和插件接入；同时优化笔记布局、会话输入状态，并提升流式回复与 Skill 执行稳定性。",
-  "pub_date": "2026-08-16T11:00:35.299Z",
+  "version": "0.1.16",
+  "notes": "思考过程现在默认折叠为单行，正式回答可更快显示，并增强知识引用识别；同时暂时关闭普通对话的新 Goal 提议入口，优化今日任务时间线文案。",
+  "pub_date": "2026-08-18T03:03:11.445Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNnd0YWJuUWdTQ2ZZalExb2JMWkFldW9nNUNqWkYzd2lYdnF4Y0dPU05FTFN5QVk3d2kxV3JRRUsvdDl2Zis4eU0rd1BDMit4TmxWeXRGOUkwNG5Rb0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODc3OTc5CWZpbGU6Um9ja3kuYXBwLnRhci5negp2aE1lMWUwejdqRkk4RUVabUFVMmtqaUR0MDJNcDhMcU1lYmVYeGgwTmJubnNpMitlcm5OcjVObFQxNDB2RTlMWkJvK1RwT0R6azc4ZlpEUUE4VEVCUT09Cg==",
-      "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.1.15/Rocky_0.1.15_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNjNEa3FuRXpvQ1FKQjhjbTl0U0w1VGJlRWZOSVRnd1ByKzJrQzQ0SXFodGc2WWUwUjFIbmNRR1pTZnFjVk03SFRRSDJNbGozNVZVb3NRYzMzeUI0MGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDIyMTI4CWZpbGU6Um9ja3kuYXBwLnRhci5negpQTTRIaU43ZGRKemppeWoxZSt6SDMvRU1TZ3F1eTF1UkNYaW4zSkN1azRGMUN0Ykx6MU92R0N1QjNSeWJoVCtrT1BKS2E2V0EzeEU1M2IxVHYwUEFDZz09Cg==",
+      "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.1.16/Rocky_0.1.16_universal.app.tar.gz"
     }
   }
 }
