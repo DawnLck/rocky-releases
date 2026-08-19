@@ -1,11 +1,11 @@
 {
-  "version": "0.1.16",
-  "notes": "聊天更清爽、等待更短：长篇思考默认收起，回答更快出现；知识库引用现在能正确保留和打开，今日任务时间线的提示也更自然。",
-  "pub_date": "2026-08-18T03:03:11.445Z",
+  "version": "0.1.17",
+  "notes": "重要内容更容易留住和找回：选中的回答片段保存为笔记后会在原文中保留标记，长期记忆也改为更清晰的条目管理；同时支持 DeepSeek V4 Pro，并统一对话、资产和定期事项的界面表达。",
+  "pub_date": "2026-08-19T05:16:44.296Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNjNEa3FuRXpvQ1FKQjhjbTl0U0w1VGJlRWZOSVRnd1ByKzJrQzQ0SXFodGc2WWUwUjFIbmNRR1pTZnFjVk03SFRRSDJNbGozNVZVb3NRYzMzeUI0MGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDIyMTI4CWZpbGU6Um9ja3kuYXBwLnRhci5negpQTTRIaU43ZGRKemppeWoxZSt6SDMvRU1TZ3F1eTF1UkNYaW4zSkN1azRGMUN0Ykx6MU92R0N1QjNSeWJoVCtrT1BKS2E2V0EzeEU1M2IxVHYwUEFDZz09Cg==",
-      "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.1.16/Rocky_0.1.16_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNjNDRkxCRVdaeFA1Zy9iTEZUVnpISXAvL3JNcGpmTVhpRnBsQ0JFSmd4aHRNRHRPSktYYyt5Z0psSnNXa0FZUjE2Nzd2ano4bEpPbGZ2WXRpSStpK2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTE2NTQ1CWZpbGU6Um9ja3kuYXBwLnRhci5negp3dERTU3pNcVJPcHpjeU5rVlE1bWF4UmhzUUZQcTNnTEZXMlNmMTBTRXFEZjdxQVpaaWUzekZVaTJ0YVNiRnU3SHpiVmY3L1R1TVNtQkRGQis4Z1JEdz09Cg==",
+      "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.1.17/Rocky_0.1.17_universal.app.tar.gz"
     }
   }
 }
