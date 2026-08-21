@@ -1,11 +1,11 @@
 {
-  "version": "0.1.17",
-  "notes": "重要内容更容易留住和找回：选中的回答片段保存为笔记后会在原文中保留标记，长期记忆也改为更清晰的条目管理；同时支持 DeepSeek V4 Pro，并统一对话、资产和定期事项的界面表达。",
-  "pub_date": "2026-08-19T05:16:44.296Z",
+  "version": "0.1.18",
+  "notes": "资产相关对话更准确也更可控：Rocky 会在需要时读取最新资产记录，你也可以在单个对话中随时关闭资产引用；工具执行提示和输入框状态更清爽，同时新增 GPT-5.6 与 Qwen 3.8 Max 支持。",
+  "pub_date": "2026-08-21T03:36:16.595Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNjNDRkxCRVdaeFA1Zy9iTEZUVnpISXAvL3JNcGpmTVhpRnBsQ0JFSmd4aHRNRHRPSktYYyt5Z0psSnNXa0FZUjE2Nzd2ano4bEpPbGZ2WXRpSStpK2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTE2NTQ1CWZpbGU6Um9ja3kuYXBwLnRhci5negp3dERTU3pNcVJPcHpjeU5rVlE1bWF4UmhzUUZQcTNnTEZXMlNmMTBTRXFEZjdxQVpaaWUzekZVaTJ0YVNiRnU3SHpiVmY3L1R1TVNtQkRGQis4Z1JEdz09Cg==",
-      "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.1.17/Rocky_0.1.17_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNndEUXFQZzhZby9Hb1Z4aHIrQUJIV2pPMURzV1lxMFZURFl1Q01xUU5XRndSVzByYzhOWmRYM0RWOWpPRnZpYnFpa1g5TzVIYVBNLzhLUlBlMWE3MkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MjgzMzU3CWZpbGU6Um9ja3kuYXBwLnRhci5nego5Y2V4RnR5Znk2cHdwRHpzdXA5UnRwWUlrZUkyV2Rzamdxak4xWTI5MGRocERXLzlabllqek9NMG9pNkZBUTJmZTJPbFdJb1dtUW0xSEdsRTIwbU1BUT09Cg==",
+      "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.1.18/Rocky_0.1.18_universal.app.tar.gz"
     }
   }
 }
