@@ -1,11 +1,11 @@
 {
-  "version": "0.1.18",
-  "notes": "资产相关对话更准确也更可控：Rocky 会在需要时读取最新资产记录，你也可以在单个对话中随时关闭资产引用；工具执行提示和输入框状态更清爽，同时新增 GPT-5.6 与 Qwen 3.8 Max 支持。",
-  "pub_date": "2026-08-21T03:36:16.595Z",
+  "version": "0.1.19",
+  "notes": "Rocky 现在更好看也更好用：新增多套主题和自定义配色，资产持仓可直接编辑；贴图前会提示图像识别是否可用，工具执行过程更清楚，并支持 GLM-5.3。",
+  "pub_date": "2026-08-21T10:28:16.257Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNndEUXFQZzhZby9Hb1Z4aHIrQUJIV2pPMURzV1lxMFZURFl1Q01xUU5XRndSVzByYzhOWmRYM0RWOWpPRnZpYnFpa1g5TzVIYVBNLzhLUlBlMWE3MkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MjgzMzU3CWZpbGU6Um9ja3kuYXBwLnRhci5nego5Y2V4RnR5Znk2cHdwRHpzdXA5UnRwWUlrZUkyV2Rzamdxak4xWTI5MGRocERXLzlabllqek9NMG9pNkZBUTJmZTJPbFdJb1dtUW0xSEdsRTIwbU1BUT09Cg==",
-      "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.1.18/Rocky_0.1.18_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNjV4TFlVenJJSXVYQUdGUytZdmlJNG5oSVFvMjJ1WksrTGxIMkFZdGc2KzArMEUrKzM0Q1VSTGdGSHN2aUxoWnBEK2dUeGVLRkZGNEF6dWZiZEdVWGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzA4MDg2CWZpbGU6Um9ja3kuYXBwLnRhci5negpFRmo3VGZqS3IyQis3NjUrcVFXTnRUWHFsMEk4Zk1KUFM0V3ROaWZIR2hiL3NXdE53RTIwTzFBUEgzSHFZTWY0eFRYaXdBYmx2TG53YlplVUt6enFDZz09Cg==",
+      "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.1.19/Rocky_0.1.19_universal.app.tar.gz"
     }
   }
 }
