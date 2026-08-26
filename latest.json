@@ -1,11 +1,11 @@
 {
-  "version": "0.1.20",
-  "notes": "笔记整理更安心：支持删除后恢复、批量整理标签，保存失败也会明确提示；资产金额会自动按最新价格校准，截图导入出现不一致时会提醒核对；同时新增 DeepSeek V4 Flash 视觉实验版，可直接理解截图、图表和图片。",
-  "pub_date": "2026-08-25T02:04:43.242Z",
+  "version": "0.1.21",
+  "notes": "资产页现在可以直接校对持仓、查看每笔浮动盈亏；定期事项新增执行历史、当前进度和失败重试；同时支持 OpenRouter，并让时间显示与任务排期跟随你选择的时区。",
+  "pub_date": "2026-08-26T08:36:20.336Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNi9WclVuK3YwUjljYW5CeVlhQUNHdTR1Nzl6THFCT0FjU1EzQ1ZSMW5Pd1o4ZXh5UjdKcWU5dm51ZEFndTA3OG81WTY2amNBZTVJV3oyeEppMVd0c0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NjIzNDYwCWZpbGU6Um9ja3kuYXBwLnRhci5negppQWplZHBBZTZYd3pJL3o1dnZaTFlIM1NXaDhjWW9ZRi9Pc0FKZkZWMlM3WEU3elllbnZwY2hNVkY1Z0VTd1F4WXVRc1p6NU5jWHk4QkRLbU1JMnhDUT09Cg==",
-      "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.1.20/Rocky_0.1.20_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNjBiODNkNVlUVFBKblR4ak9MWE9mcHEwbGFnSnd5YTVOWkRwVGFpWjVOVjBRT2tLOXA5elFkYzVGYkdVNGlUV1VJUVpWLy9LZlVyb3VqcE1adVFvRFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NzMzMzEzCWZpbGU6Um9ja3kuYXBwLnRhci5negpwMjRwZ2c5SmsvVXRrRStmTCtFS1V5VUVrR2cxb1FqVVBVSW15c2FtUGlOZ25UR20vNmIyNmhFNU9wZTVqNzNMSVJMTFg4aWkwdndMcHljNVVqVzRBZz09Cg==",
+      "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.1.21/Rocky_0.1.21_universal.app.tar.gz"
     }
   }
 }
