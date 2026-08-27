@@ -1,11 +1,11 @@
 {
-  "version": "0.1.21",
-  "notes": "资产页现在可以直接校对持仓、查看每笔浮动盈亏；定期事项新增执行历史、当前进度和失败重试；同时支持 OpenRouter，并让时间显示与任务排期跟随你选择的时区。",
-  "pub_date": "2026-08-26T08:36:20.336Z",
+  "version": "0.1.22",
+  "notes": "资产页和对话现在共用同一本账，删除持仓后不会再被 Rocky 提起；同时新增 GLM 开放平台与 Qwen 3.8 Flash，可在输入栏切换联网搜索，并优化模型选择、定期事项时间和长回复稳定性。",
+  "pub_date": "2026-08-27T19:12:54.035Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNjBiODNkNVlUVFBKblR4ak9MWE9mcHEwbGFnSnd5YTVOWkRwVGFpWjVOVjBRT2tLOXA5elFkYzVGYkdVNGlUV1VJUVpWLy9LZlVyb3VqcE1adVFvRFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NzMzMzEzCWZpbGU6Um9ja3kuYXBwLnRhci5negpwMjRwZ2c5SmsvVXRrRStmTCtFS1V5VUVrR2cxb1FqVVBVSW15c2FtUGlOZ25UR20vNmIyNmhFNU9wZTVqNzNMSVJMTFg4aWkwdndMcHljNVVqVzRBZz09Cg==",
-      "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.1.21/Rocky_0.1.21_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNnlYdy9hNis4Tm5FVnEzSDd3TmZLNUpMclVnSHBnemI1c2xBZzRhVEQ5TTdyb0N3a3pjZjJWV0ttbzgzZG9hYzZLUnA1TVJ2N2RZeVFNKytnZHUwandRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODU3OTU1CWZpbGU6Um9ja3kuYXBwLnRhci5negoxcDRLU0FjTzNTWTZMaVVXRXkyRFJqRndkMjFSNTU1a25sRkg1TjhhTE1FazZZcUZ4NUQ0My9xS2FkTDBXUi9PVFMyQ0FFWU1Vc1ViT1NlWUlISzRDQT09Cg==",
+      "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.1.22/Rocky_0.1.22_universal.app.tar.gz"
     }
   }
 }
