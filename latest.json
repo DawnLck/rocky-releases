@@ -1,11 +1,11 @@
 {
-  "version": "0.1.23",
-  "notes": "技能中心焕新，支持批量启停、列表/卡片切换，并新增多项金融与企业数据服务；长任务可以按需继续，定期事项在后台运行更稳定，对话引用与过程提示也更清晰。",
-  "pub_date": "2026-08-31T14:19:15.584Z",
+  "version": "0.2.0",
+  "notes": "Rocky 正式进入 Alpha 测试阶段。资产页现在能按汇率统一查看外币持仓；Plugin 引用、实验性的能力自动匹配和 Wind 接入更完整。定时任务回执、新闻来源与上下文用量提示也更清楚。",
+  "pub_date": "2026-09-02T01:00:48.596Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNjNhMVZNaXRaSDErZmJZZzhJYVpNeE0zOWFwc3FoWWVscXJJVlFnZnNVR1ErWFJBcVNTMTJsTnVsNk55N0pIZGFMM1ZTRy90aGFKQm95Snp3SU9FR1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTg1NTYyCWZpbGU6Um9ja3kuYXBwLnRhci5negpDQnpCRFFKSEhON2tXVm5NYnViOVFkc2hoS0daSUErYlIvNkNSc1BBcTYrNkh5cjB1SVV1MFZxZHpyTDlJRGlSditKM1FzN0FRVk5JdWt5a2srclBDUT09Cg==",
-      "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.1.23/Rocky_0.1.23_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNjZBaGFxV09wenY2SHpsbUNBVFNvVk5RQnRkY0dxQXpMbDQxMVBsay9lR21sYlk0MFRQd3puY2U2QUlBalgyNmdwdlAzNWthZkY3M3k1MHJieU91emdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MzEwNzg2CWZpbGU6Um9ja3kuYXBwLnRhci5negpMK0doeGs0NGRtN0pBaGRqd3VjTVNZdExkY080K0lscGRONjdOZDNpSmtybFFVOVVEcXlpeWlCazlrTjIzem05TFY2OVlTdVpLOFFMZ012SHNaTkFBQT09Cg==",
+      "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.2.0/Rocky_0.2.0_universal.app.tar.gz"
     }
   }
 }

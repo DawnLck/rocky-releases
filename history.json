@@ -1,7 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T14:20:06Z",
+  "generatedAt": "2026-09-02T01:03:29Z",
   "releases": [
+    {
+      "version": "0.2.0",
+      "publishedAt": "2026-09-02T01:03:29Z",
+      "notes": "Rocky 正式进入 Alpha 测试阶段。资产页现在能按汇率统一查看外币持仓；Plugin 引用、实验性的能力自动匹配和 Wind 接入更完整。定时任务回执、新闻来源与上下文用量提示也更清楚。",
+      "sizeMb": 43
+    },
     {
       "version": "0.1.23",
       "publishedAt": "2026-08-31T14:20:06Z",
