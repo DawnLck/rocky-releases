@@ -1,11 +1,11 @@
 {
-  "version": "0.2.1",
-  "notes": "需要你决定时，Rocky 现在会给出可点选项；笔记支持全屏阅读和直接编辑，资产分析会主动验算关键数字。试用模式也不再缩短回答或隐藏常用能力，复杂任务更容易完整做完。",
-  "pub_date": "2026-09-02T15:58:20.806Z",
+  "version": "0.2.2",
+  "notes": "首页问候会随时间和当前情况自然变化；对话侧边现在能直接查看正在进行和即将执行的任务，并继续、结束或跳过。定期事项的创建、编辑和今日时间线更清楚，策略调整也会以更简洁的回执呈现；长期记忆暂时收进实验功能，正式版默认关闭。",
+  "pub_date": "2026-09-03T16:50:09.099Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNi9ZM1YwbGlGUzFSbld4MjRONmdIQXJKeDFIYlFlblBQdVVBU0NNaEtIc0ltZEQ2MG5BbnUxWjZKY1F3TTlPdGJQVjJJN1I3SmdoalZEWFFMR3E0RHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MzY0NjU3CWZpbGU6Um9ja3kuYXBwLnRhci5negpsMHF1SUJDWHZMZ0NhRTc4blNyTDZ2T3ErWllWZlByLzhsbmh3VUZ2RkxVRmY5clBwS01KemVsUmpHNERVZFdENzBHWVgxM2l0ZUJOQW9hc29pNkNCQT09Cg==",
-      "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.2.1/Rocky_0.2.1_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNitSbFhTMmVUQ3NQR29oRE1qU00rRXF0N0I2eUFQMDNtOUYxdmJyWGxKRFkxQ0NNdkJiNFVjNnBIcG1QK0M1Rll5UE1xWElCZlQwQWcvYXVJaU1tL2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDU0MTc3CWZpbGU6Um9ja3kuYXBwLnRhci5negpFWjdhWGU2K2p3RlBaMk9SZXpGVHlDR0kxYmR4Mko0RW5abTBRVmJpVHlTU1B4SjVwcG5RK1RUb0VJamxrRTRJcStFcFU3VFQ0NFJLRGd1S25EdTFBZz09Cg==",
+      "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.2.2/Rocky_0.2.2_universal.app.tar.gz"
     }
   }
 }
