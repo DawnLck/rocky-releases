@@ -1,7 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T16:51:22Z",
+  "generatedAt": "2026-09-07T01:43:19Z",
   "releases": [
+    {
+      "version": "0.2.3",
+      "publishedAt": "2026-09-07T01:43:19Z",
+      "notes": "首页推荐问题会自动轮换，打字时也会出现可直接采用的下一句建议；换上正式 Logo，开口聊天会自动领好当天试用次数。",
+      "sizeMb": 26
+    },
     {
       "version": "0.2.2",
       "publishedAt": "2026-09-03T16:51:22Z",

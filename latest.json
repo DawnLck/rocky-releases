@@ -1,11 +1,11 @@
 {
-  "version": "0.2.2",
-  "notes": "首页问候更自然；对话侧边新增任务视图，可直接查看和处理当前及后续任务。定期事项与策略调整也更清楚。",
-  "pub_date": "2026-09-03T16:50:09.099Z",
+  "version": "0.2.3",
+  "notes": "首页推荐问题会自动轮换，打字时也会出现可直接采用的下一句建议；换上正式 Logo，开口聊天会自动领好当天试用次数。",
+  "pub_date": "2026-09-07T01:42:39.403Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNitSbFhTMmVUQ3NQR29oRE1qU00rRXF0N0I2eUFQMDNtOUYxdmJyWGxKRFkxQ0NNdkJiNFVjNnBIcG1QK0M1Rll5UE1xWElCZlQwQWcvYXVJaU1tL2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDU0MTc3CWZpbGU6Um9ja3kuYXBwLnRhci5negpFWjdhWGU2K2p3RlBaMk9SZXpGVHlDR0kxYmR4Mko0RW5abTBRVmJpVHlTU1B4SjVwcG5RK1RUb0VJamxrRTRJcStFcFU3VFQ0NFJLRGd1S25EdTFBZz09Cg==",
-      "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.2.2/Rocky_0.2.2_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNjBMUnE1dG1nMGpzaFRZOUg4Um81QnIyMUJmcWxZeE5lbGtLNm9tNmNIMjlYQldxU2hlK2RDeEJRT09LRWpkdnZWY3hrYWtYdjMxeGg1dTBYVEFrV3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzQ1MzQyCWZpbGU6Um9ja3kuYXBwLnRhci5negpmNng3R0c2MUN3QXJWaGtkellQMDVvQWZXbGhVSkllSzhXVFkzYVNkQ1hyY1lseG1tQy9LSlM5N2FsdzhHZjJZb2hCYm5WdE9USHhQbGFQWnMyejRBQT09Cg==",
+      "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.2.3/Rocky_0.2.3_universal.app.tar.gz"
     }
   }
 }
