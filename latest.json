@@ -1,11 +1,11 @@
 {
-  "version": "0.2.3",
-  "notes": "首页推荐问题会自动轮换，打字时也会出现可直接采用的下一句建议；交互设计做了优化，开口聊天会自动领好当天试用次数。",
-  "pub_date": "2026-09-07T01:42:39.403Z",
+  "version": "0.2.4",
+  "notes": "模型接入和选择更省心：TokenDance 支持浏览器授权，常用模型会优先展示并自动检查是否可用；微信与飞书绑定也更稳定，多处界面信息进一步精简。",
+  "pub_date": "2026-09-09T16:39:05.623Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNjBMUnE1dG1nMGpzaFRZOUg4Um81QnIyMUJmcWxZeE5lbGtLNm9tNmNIMjlYQldxU2hlK2RDeEJRT09LRWpkdnZWY3hrYWtYdjMxeGg1dTBYVEFrV3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzQ1MzQyCWZpbGU6Um9ja3kuYXBwLnRhci5negpmNng3R0c2MUN3QXJWaGtkellQMDVvQWZXbGhVSkllSzhXVFkzYVNkQ1hyY1lseG1tQy9LSlM5N2FsdzhHZjJZb2hCYm5WdE9USHhQbGFQWnMyejRBQT09Cg==",
-      "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.2.3/Rocky_0.2.3_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNndPV3RRS08vSHNnYzBMM2NsVDNWT0QwU2NERmRYM2J0bFdpRktUSWlPaGNHWHJMdVpWVzc3alZ0dkU4ZGltSk9xVnA5bkhtTldxZHVONDlXb256UHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTcxODcyCWZpbGU6Um9ja3kuYXBwLnRhci5negozdURpZ1pjdmZyUmwrcUtkTUJBbTZNbmZUYzN5S0w5RVF4dVplYzhGa0ttZTM1cTBRdzdnUzEvblhuSHdGUmZBU04xNHFmdzFod2Z2SktDbVJHS1RBQT09Cg==",
+      "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.2.4/Rocky_0.2.4_universal.app.tar.gz"
     }
   }
 }

@@ -1,7 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-07T01:43:19Z",
+  "generatedAt": "2026-09-09T16:40:32Z",
   "releases": [
+    {
+      "version": "0.2.4",
+      "publishedAt": "2026-09-09T16:40:32Z",
+      "notes": "模型接入和选择更省心：TokenDance 支持浏览器授权，常用模型会优先展示并自动检查是否可用；微信与飞书绑定也更稳定，多处界面信息进一步精简。",
+      "sizeMb": 26
+    },
     {
       "version": "0.2.3",
       "publishedAt": "2026-09-07T01:43:19Z",
