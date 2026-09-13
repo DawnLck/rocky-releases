@@ -1,11 +1,11 @@
 {
-  "version": "0.2.4",
-  "notes": "模型接入和选择更省心：TokenDance 支持浏览器授权，常用模型会优先展示并自动检查是否可用；微信与飞书绑定也更稳定，多处界面信息进一步精简。",
-  "pub_date": "2026-09-09T16:39:05.623Z",
+  "version": "0.2.5",
+  "notes": "复杂任务现在可以交给专门助手在后台处理，完成后会自动带回结果；搜索和网页读取过程也更清楚。新增 DeepSeek V4.1 Flash 等多款模型支持，旧版 DeepSeek 选择会自动升级到新模型。",
+  "pub_date": "2026-09-13T10:15:37.956Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNndPV3RRS08vSHNnYzBMM2NsVDNWT0QwU2NERmRYM2J0bFdpRktUSWlPaGNHWHJMdVpWVzc3alZ0dkU4ZGltSk9xVnA5bkhtTldxZHVONDlXb256UHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTcxODcyCWZpbGU6Um9ja3kuYXBwLnRhci5negozdURpZ1pjdmZyUmwrcUtkTUJBbTZNbmZUYzN5S0w5RVF4dVplYzhGa0ttZTM1cTBRdzdnUzEvblhuSHdGUmZBU04xNHFmdzFod2Z2SktDbVJHS1RBQT09Cg==",
-      "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.2.4/Rocky_0.2.4_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNnpLbUhDSms0citsejJmTEk2NEtlRnhXNWRYd1NTaUd1UTFvSWY1dEJ0WVZLWlVwdW5JTEZvNzAzZDJ2MnpvQnl4YTllUER3anNub25wYWZIZ043bFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5Mjk0NTAzCWZpbGU6Um9ja3kuYXBwLnRhci5negpqVUdremVtNmoyYkRTano3Y20zMmVWano3NHlyNktvSnhSMHNOaWVFcUo0bm5ybFpiUmlLSkdVU3lXOFpyQ1pmVGpzSDFxMHMvUzdFdDNaYkFseUFDZz09Cg==",
+      "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.2.5/Rocky_0.2.5_universal.app.tar.gz"
     }
   }
 }

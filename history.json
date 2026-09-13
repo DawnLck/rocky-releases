@@ -1,7 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T16:40:32Z",
+  "generatedAt": "2026-09-13T10:16:23Z",
   "releases": [
+    {
+      "version": "0.2.5",
+      "publishedAt": "2026-09-13T10:16:23Z",
+      "notes": "复杂任务现在可以交给专门助手在后台处理，完成后会自动带回结果；搜索和网页读取过程也更清楚。新增 DeepSeek V4.1 Flash 等多款模型支持，旧版 DeepSeek 选择会自动升级到新模型。",
+      "sizeMb": 27
+    },
     {
       "version": "0.2.4",
       "publishedAt": "2026-09-09T16:40:32Z",
