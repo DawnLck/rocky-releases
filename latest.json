@@ -1,11 +1,11 @@
 {
-  "version": "0.2.5",
-  "notes": "复杂任务现在可以交给专门助手在后台处理，完成后会自动带回结果；搜索和网页读取过程也更清楚。新增 DeepSeek V4.1 Flash 等多款模型支持，旧版 DeepSeek 选择会自动升级到新模型。",
-  "pub_date": "2026-09-13T10:15:37.956Z",
+  "version": "0.2.6",
+  "notes": "Rocky 现在能更完整地理解你的持仓数量、成本、盈亏和买入日期；对话用量更透明，人设也支持查看、对比和恢复历史版本。微信连接、图表生成和网络波动下的回复也更稳定。",
+  "pub_date": "2026-09-16T17:34:06.869Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNnpLbUhDSms0citsejJmTEk2NEtlRnhXNWRYd1NTaUd1UTFvSWY1dEJ0WVZLWlVwdW5JTEZvNzAzZDJ2MnpvQnl4YTllUER3anNub25wYWZIZ043bFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5Mjk0NTAzCWZpbGU6Um9ja3kuYXBwLnRhci5negpqVUdremVtNmoyYkRTano3Y20zMmVWano3NHlyNktvSnhSMHNOaWVFcUo0bm5ybFpiUmlLSkdVU3lXOFpyQ1pmVGpzSDFxMHMvUzdFdDNaYkFseUFDZz09Cg==",
-      "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.2.5/Rocky_0.2.5_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNndzVWs1QThSSWVSclFweDFFMUNhMVNlS081YllmWGJrSi8wOFR0L1ZhR2IwMVNpSzhwd3ZyOGNqOUV1V2F4UXdLN1NHWjIvYXhYbVVpQjZuL1QzUUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTgwMDAxCWZpbGU6Um9ja3kuYXBwLnRhci5negpoK0w2OXhsbGIydW5OeGVjeWMrTFpDb3FFbGFtR3RDcGJZY0hEWlo3QnkrbmdzcDAvQUtXT1VUQUdPSG92anJjRWdGbHFNR01qYkVGSU84SXl2aDVCZz09Cg==",
+      "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.2.6/Rocky_0.2.6_universal.app.tar.gz"
     }
   }
 }
