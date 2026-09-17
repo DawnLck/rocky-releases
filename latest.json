@@ -1,11 +1,11 @@
 {
-  "version": "0.2.6",
-  "notes": "Rocky 现在能更完整地理解你的持仓数量、成本、盈亏和买入日期；对话用量更透明，人设也支持查看、对比和恢复历史版本。微信连接、图表生成和网络波动下的回复也更稳定。",
-  "pub_date": "2026-09-16T17:34:06.869Z",
+  "version": "0.2.7",
+  "notes": "Rocky 现在能直接显示数学公式，也能更准确地处理多项计算、分数、根号和复杂表达式；工具失败时会告诉你更具体的原因。切换新问题时不再残留未完成的对比回答，对话过程和侧栏界面也更紧凑。",
+  "pub_date": "2026-09-17T09:02:13.171Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNndzVWs1QThSSWVSclFweDFFMUNhMVNlS081YllmWGJrSi8wOFR0L1ZhR2IwMVNpSzhwd3ZyOGNqOUV1V2F4UXdLN1NHWjIvYXhYbVVpQjZuL1QzUUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTgwMDAxCWZpbGU6Um9ja3kuYXBwLnRhci5negpoK0w2OXhsbGIydW5OeGVjeWMrTFpDb3FFbGFtR3RDcGJZY0hEWlo3QnkrbmdzcDAvQUtXT1VUQUdPSG92anJjRWdGbHFNR01qYkVGSU84SXl2aDVCZz09Cg==",
-      "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.2.6/Rocky_0.2.6_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSjRYTTJ5OEQyNjB6bklCMWdBdXNmRjMyWDk3QnVtdi9Leko4UWpWcEcwZW9Ga0JLNndkMWhZbDJITVJyTnVRT2NoRWJjbnppVXRvSWNrd2RzQXAvL3hEVVY1NmhLRWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjM1Njk3CWZpbGU6Um9ja3kuYXBwLnRhci5negpDQStNZmlUZU9jS2ZZZEpQU3phczJpV0p0UlBiYnB3bUdubUI2MEFmTVovNTlWYXRZYUJNbVZTMVVlcWRYNjI4SVNvSXdpbmk5TVk1UjFML05xVEFEdz09Cg==",
+      "url": "https://rocky-release.oss-cn-hangzhou.aliyuncs.com/releases/v0.2.7/Rocky_0.2.7_universal.app.tar.gz"
     }
   }
 }
